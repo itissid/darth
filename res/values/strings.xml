@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyChores</string>
+    <string name="create_a_task">Create a chore</string>
+    <string name="task_short_description"> Chore Description </string>
+    <string name="from_date_text">From</string>
+    <string name="to_date_text">To</string>
+    <string name="button_from_date">Set Date</string>
+    <string name="button_to_date">Set Date</string>
+    <string-array name="choice_array0">
+        <item>Just once</item>
+    </string-array>
+	<string-array name="choice_array1">
+        <item>Everyday</item>
+        <item>On days &#8230;</item>
+    </string-array>
+    <string-array name="choice_array2">
+        <item>Everyday</item>
+        <item>On days &#8230;</item>
+        <item>On month days &#8230;</item>
+    </string-array>
+    <string-array name="choice_array3">
+        <item>Everyday</item>
+        <item>On days &#8230;</item>
+        <item>On month days &#8230;</item>
+        <item>Once a year &#8230;</item>
+    </string-array>
+</resources>
